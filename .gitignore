@@ -1,0 +1,7 @@
+*.mp4
+*.zip
+*.pdf
+*.pptx
+*.pt
+__pycache__/
+venv/
